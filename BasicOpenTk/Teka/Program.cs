@@ -11,7 +11,7 @@ namespace Teka
         [STAThread]
         static void Main(string[] args)
         {
-
+            Console.WriteLine("First debug");
         }
     }
 }

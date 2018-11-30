@@ -1,1 +1,10 @@
 C:\Users\ljeon\Documents\Visual Studio 2013\Projects\BasicOpenTk\Teka\bin\Debug\Teka.exe.config
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\Teka.exe.config
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\Teka.exe
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\Teka.pdb
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\OpenTK.dll
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\OpenTK.pdb
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\bin\Debug\OpenTK.xml
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\obj\Debug\Teka.csprojResolveAssemblyReference.cache
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\obj\Debug\Teka.exe
+C:\DEV\Teka\Teka\BasicOpenTk\Teka\obj\Debug\Teka.pdb
