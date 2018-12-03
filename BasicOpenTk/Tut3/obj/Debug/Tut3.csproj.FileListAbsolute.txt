@@ -1,0 +1,9 @@
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\Tut3.exe.config
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\Tut3.exe
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\Tut3.pdb
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\OpenTK.dll
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\OpenTK.pdb
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\bin\Debug\OpenTK.xml
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\obj\Debug\Tut3.csprojResolveAssemblyReference.cache
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\obj\Debug\Tut3.exe
+C:\DEV\Teka\Teka\BasicOpenTk\Tut3\obj\Debug\Tut3.pdb

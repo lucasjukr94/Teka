@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teka", "Teka\Teka.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut2", "Tut2\Tut2.csproj", "{A0E6F249-E4AB-45E5-9724-928670988B9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut3", "Tut3\Tut3.csproj", "{F0DFF8F8-B300-47F0-90B9-7A92BE5474EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A0E6F249-E4AB-45E5-9724-928670988B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E6F249-E4AB-45E5-9724-928670988B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E6F249-E4AB-45E5-9724-928670988B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DFF8F8-B300-47F0-90B9-7A92BE5474EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DFF8F8-B300-47F0-90B9-7A92BE5474EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DFF8F8-B300-47F0-90B9-7A92BE5474EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DFF8F8-B300-47F0-90B9-7A92BE5474EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
